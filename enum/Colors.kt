@@ -1,7 +1,7 @@
-package geometry
+package enum
 
 
-enum class Color {
+enum class Colors {
     RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET
 }
 
