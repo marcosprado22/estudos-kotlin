@@ -1,4 +1,4 @@
-package Capitulo2
+package capitulo2
 
 
 //fun main(args: Array<String>) {

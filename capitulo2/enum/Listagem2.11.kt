@@ -1,4 +1,4 @@
-package Capitulo2.enum
+package capitulo2.enum
 
 enum class Color (
     val r: Int, val g: Int, val b: Int

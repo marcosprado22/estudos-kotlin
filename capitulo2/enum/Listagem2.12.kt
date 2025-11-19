@@ -1,4 +1,4 @@
-package Capitulo2.enum
+package capitulo2.enum
 
 enum class Color1 {
     RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET
