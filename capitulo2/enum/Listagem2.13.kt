@@ -1,4 +1,4 @@
-package Capitulo2.enum
+package capitulo2.enum
 
 
 fun getWarmth(color: Color) = when(color) {

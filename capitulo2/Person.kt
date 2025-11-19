@@ -1,4 +1,4 @@
-package Capitulo2
+package capitulo2
 
 //Modelo de classe em Kotlin
 class Person(val name: String)

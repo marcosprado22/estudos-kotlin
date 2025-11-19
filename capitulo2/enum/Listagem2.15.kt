@@ -1,4 +1,4 @@
-package Capitulo2.enum
+package capitulo2.enum
 
 fun mix(c1: Color, c2: Color) =
     when (setOf(c1, c2)) {

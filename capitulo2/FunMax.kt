@@ -1,4 +1,4 @@
-package Capitulo2
+package capitulo2
 
 //nome da função: max
 //parâmetros: a e b do tipo Int

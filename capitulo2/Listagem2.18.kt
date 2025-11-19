@@ -1,11 +1,11 @@
-package Capitulo2
+package capitulo2
 
 interface Expr
 
 class Num(val value: Int): Expr
 class Sum(val left: Expr, val right: Expr): Expr
 
-fun eval(e: Expr): Int {
+fun eval1(e: Expr): Int {
     if(e is Num) {
         val n = e as Num
         return n.value

@@ -1,5 +1,5 @@
-package Capitulo2.enum
-import Capitulo2.enum.Color.*
+package capitulo2.enum
+import capitulo2.enum.Color.*
 
 fun mixOptimized(c1: Color, c2: Color) =
     when {
